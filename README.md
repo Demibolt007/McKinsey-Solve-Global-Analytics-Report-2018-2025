@@ -2,7 +2,7 @@
 
 ![McKinsey Dashboard Dark](https://github.com/user-attachments/assets/4b0b1a31-890a-48ba-a846-de07e2735ae9)
 
-[![Kaggle Dataset](https://img.shields.io/badge/View%20on-Kaggle-blue?logo=kaggle)](https://www.kaggle.com/datasets/oluwademiladeadeniyi/mckinsey-solve-global-assessment-data)  
+[![Kaggle Dataset](https://img.shields.io/badge/View%20on-Kaggle-blue?logo=kaggle)](https://www.kaggle.com/datasets/oluwademiladeadeniyi/mckinseys-solve-dataset/)  
 [Connect on LinkedIn](https://linkedin.com/in/demibolt/) • [Follow on X (Twitter)](https://twitter.com/demibolt_)
 
 ---
@@ -12,7 +12,7 @@
 This report explores global test-taker data from the **McKinsey Solve Assessment** between 2018 and 2025. Using Excel-powered dashboards, charts, and performance gauges, we uncover what influences assessment success — from demographics and education to regional engagement and resume strength.
 
 📊 **Explore the Dataset on Kaggle:**  
-➡ [Kaggle: McKinsey Solve Global Assessment Data (2018–2025)](https://www.kaggle.com/datasets/oluwademiladeadeniyi/mckinsey-solve-global-assessment-data)
+➡ [Kaggle: McKinsey Solve Global Assessment Data (2018–2025)](https://www.kaggle.com/datasets/oluwademiladeadeniyi/mckinseys-solve-dataset/)
 
 ---
 
@@ -129,7 +129,7 @@ This dataset sheds light on the evolving nature of global hiring assessments. De
 
 - 🧠 Inspired by McKinsey Solve’s game-based assessment structure.
 - 📊 Built entirely in **Microsoft Excel** with Pivot Tables and Dynamic Charts.
-- 📁 [Download the Dataset on Kaggle](https://www.kaggle.com/datasets/oluwademiladeadeniyi/mckinsey-solve-global-assessment-data)
+- 📁 [Download the Dataset on Kaggle](https://www.kaggle.com/datasets/oluwademiladeadeniyi/mckinseys-solve-dataset)
 
 ---
 
