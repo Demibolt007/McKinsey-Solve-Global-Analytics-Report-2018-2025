@@ -33,13 +33,13 @@ This report explores global test-taker data from the **McKinsey Solve Assessment
 
 ## 1. Introduction
 
-This report investigates the drivers of success in the McKinsey Solve gamified assessments. It identifies patterns by region, education, employment, gender, and game behavior — offering insights for recruiters and educators.
+This report investigates the drivers of success in the McKinsey Solve gamified assessments. It identifies patterns by region, education, employment, gender, and game behaviour — offering insights for recruiters and educators.
 
 ---
 
 ## 2. Story of Data
 
-- **Source**: This dataset was self-generated using a combination of synthetic data modeling and real-world structure. Department names, office locations, and assessment components were referenced from McKinsey’s Solve website and recruitment resources. All test scores, participant demographics, and game engagement metrics were created to simulate realistic candidate performance across global regions.
+- **Source**: This dataset was self-generated using a combination of synthetic data modelling and real-world structure. Department names, office locations, and assessment components were referenced from McKinsey’s Solve website and recruitment resources. All test scores, participant demographics, and game engagement metrics were created to simulate realistic candidate performance across global regions.
 - **Volume**: 4,000+ global records  
 - **Structure**: Rows = individual test takers; Columns = demographics, assessment scores, game engagement, resume score  
 - **Key Fields**:  
@@ -71,7 +71,7 @@ This report investigates the drivers of success in the McKinsey Solve gamified a
 
 ### 📈 Full Global Insights (2018–2025)
 
-- **Average Assessment Score**: ~63.1% (visualized via a **Performance Gauge**)  
+- **Average Assessment Score**: ~76.15% (visualized via a **Performance Gauge**)  
 - **High Performers**: Italy (74%), Colombia (72%), Spain (70%)  
 - **Low Performers**: Ghana (36%), Nigeria (38%), Tanzania (42%)  
 - **Observation**: Education levels strongly influence both Resume and Test scores  
@@ -104,7 +104,7 @@ Key visuals created in Microsoft Excel:
 - 🎓 **Assessment Status by Education** — Bar chart (Pass vs. Fail)  
 - 🎮 **Game Scores by Region** — Grouped bar chart  
 - 🧑‍💼 **Resume Trends Across Education Levels** — Line graph  
-- ⏱️ **Performance Gauge** — Speedometer showing average global score (63.1%)
+- ⏱️ **Performance Gauge** — Speedometer showing average global score (76.15%)
 
 ![McKinsey Dashboard Light](https://github.com/user-attachments/assets/b50058f5-8810-4e58-9ed5-fbfc969927b5)
 
@@ -112,10 +112,10 @@ Key visuals created in Microsoft Excel:
 
 ## 8. Recommendations
 
-- 📍 **Targeted Preparation**: Invest in countries with <50% pass rate — provide practice tools  
-- 🎓 **Resume Uplift**: Develop CV support workshops for first-gen and unemployed test takers  
-- 🧪 **A/B Test Support**: Pilot resume prep or game tutorials to boost underperforming segments  
-- 🧭 **Localize Resources**: Translate and adapt training for regional learning styles and access  
+- 📍 **Targeted Preparation**: Invest in countries with <50% pass rate — provide practice tools.  
+- 🎓 **Resume Uplift**: Develop CV support workshops for first-gen and unemployed test takers.
+- 🧪 **A/B Test Support**: Pilot resume prep or game tutorials to boost underperforming segments.  
+- 🧭 **Localise Resources**: Translate and adapt training for regional learning styles and access.
 
 ---
 
@@ -127,8 +127,8 @@ This dataset sheds light on the evolving nature of global hiring assessments. De
 
 ## 10. References & Appendices
 
-- 🧠 Inspired by McKinsey Solve’s game-based assessment structure  
-- 📊 Built entirely in **Microsoft Excel** with Pivot Tables, COUNTIFS, Dynamic Charts  
+- 🧠 Inspired by McKinsey Solve’s game-based assessment structure.
+- 📊 Built entirely in **Microsoft Excel** with Pivot Tables and Dynamic Charts.
 - 📁 [Download the Dataset on Kaggle](https://www.kaggle.com/datasets/oluwademiladeadeniyi/mckinsey-solve-global-assessment-data)
 
 ---
