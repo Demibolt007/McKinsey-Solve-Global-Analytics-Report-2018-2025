@@ -39,7 +39,7 @@ This report investigates the drivers of success in the McKinsey Solve gamified a
 
 ## 2. Story of Data
 
-- **Source**: Simulated McKinsey Solve dataset  
+- **Source**: This dataset was self-generated using a combination of synthetic data modeling and real-world structure. Department names, office locations, and assessment components were referenced from McKinsey’s Solve website and recruitment resources. All test scores, participant demographics, and game engagement metrics were created to simulate realistic candidate performance across global regions.
 - **Volume**: 4,000+ global records  
 - **Structure**: Rows = individual test takers; Columns = demographics, assessment scores, game engagement, resume score  
 - **Key Fields**:  
